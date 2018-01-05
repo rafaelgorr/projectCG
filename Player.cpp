@@ -24,16 +24,11 @@ Player::Player(GLfloat bS, GLfloat speed) {
 
 	angleArmX = 0;
 	angleArmZ = 0;
-
 	indexLeg = 0;
-
-
-
 }
 
 void Player:: drawPlayer()
 {
-
 	glBindTexture (GL_TEXTURE_2D, bodyPlayer.getMeshTex());
 	glTexParameterf( GL_TEXTURE_2D, GL_TEXTURE_WRAP_T,GL_REPEAT);
 	glTexParameterf( GL_TEXTURE_2D, GL_TEXTURE_WRAP_S,GL_REPEAT);
