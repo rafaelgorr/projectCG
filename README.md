@@ -1,4 +1,4 @@
-College Project - Computer Graphics 2017/2
+College Project - Computer Graphics UFES 2017/2
 
 Prof. Dr. Thiago Oliveira dos Santos (www.inf.ufes.br/~todsantos/)
 
