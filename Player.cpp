@@ -14,14 +14,11 @@ Player::Player(GLfloat bS, GLfloat speed) {
 	this->speed = speed;
 	this->body = NULL;
 
-
 	jumping = false;
 	overObstacle = false;
 	jumpedOverObstacle = false;
 
-
 	angleLegs = 0;
-
 	angleArmX = 0;
 	angleArmZ = 0;
 	indexLeg = 0;
