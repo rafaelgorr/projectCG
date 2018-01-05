@@ -4,7 +4,6 @@
  *  Created on: 19 de out de 2017
  *      Author: rafael
  */
-
 #include "Player.h"
 #include "globals.h"
 
