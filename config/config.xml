@@ -1,0 +1,6 @@
+<aplicacao>
+	<arquivoDaArena nome="arena" tipo="svg" caminho="SVG/"></arquivoDaArena>
+	<jogador velTiro="1" vel="0.1"></jogador>
+	<inimigo freqTiro="1" vel="0.1" velTiro="1"></inimigo>
+	<obstaculo altura="60"></obstaculo>
+</aplicacao>

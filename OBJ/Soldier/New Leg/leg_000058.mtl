@@ -1,0 +1,46 @@
+# Blender MTL File: 'LegsMov.blend'
+# Material Count: 4
+
+newmtl Material__11.005
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /media/rafael/DADOS/Trabalhos/workspace cpp/CGFinal/OBJ/Soldier/body.png
+
+newmtl Material__23.005
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /media/rafael/DADOS/Trabalhos/workspace cpp/CGFinal/OBJ/Soldier/eye.png
+
+newmtl Material__23.005_NONE
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /media/rafael/DADOS/Trabalhos/workspace cpp/CGFinal/OBJ/Soldier/eye.png
+
+newmtl Material__35.003
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /media/rafael/DADOS/Trabalhos/workspace cpp/CGFinal/OBJ/Soldier/feet.png

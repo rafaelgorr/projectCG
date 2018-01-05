@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <circle
+     cx="500"
+     cy="500"
+     r="700"
+     fill="blue"
+     id="1" />
+  <circle
+     cx="500"
+     cy="500"
+     r="100"
+     fill="white"
+     id="2" />
+  <circle
+     cx="652"
+     cy="296"
+     r="50"
+     fill="red"
+     id="3" />
+     
+<circle
+     cx="100"
+     cy="100"
+     r="50"
+     fill="red"
+     id="3" />
+<circle
+     cx="700"
+     cy="600"
+     r="50"
+     fill="red"
+     id="3" />
+
+
+  <circle
+     cx="200"
+     cy="500"
+     r="50"
+     fill="green"
+     id="6" />
+  <circle
+     fill="black"
+     cx="403.38983"
+     cy="801.69495"
+     r="62.372883"
+     id="7" />
+
+ <circle
+     fill="black"
+     cx="93.22034"
+     cy="698.30511"
+     r="100"
+     id="8" /> 
+ <circle
+     fill="black"
+     cx="524.22034"
+     cy="222.30511"
+     r="70"
+     id="8" />
+</svg>
