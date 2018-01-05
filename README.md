@@ -6,5 +6,7 @@ OpenGL
 GLUT (freeglut)
 
 Execute Instructions: <br/>
-	- Open the prompt and type "make" <br/>
+	- Open terminal and type "make" <br/>
 	- With all files compiled type "./trabalhocg config/" to run.
+
+Not sure if it'll work on Windows.
